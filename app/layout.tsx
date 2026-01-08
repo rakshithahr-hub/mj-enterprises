@@ -7,6 +7,9 @@ import Footer from "../components/Footer";
 export const metadata: Metadata = {
   title: "MJ Enterprises | Civil, Electrical & Solar Engineering Bangalore",
   description: "Premier engineering firm in Bangalore. GST: 29BFRPH2421B1ZP. Specializing in Solar EPC, Civil Construction, and Electrical works.",
+  verification: {
+    google: "aGRpfCd8toVvHxXMsDI7CzWGdGCasgIXId3aHmdTgBY", 
+  },
 };
 
 export default function RootLayout({
