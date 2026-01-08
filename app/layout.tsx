@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   title: "MJ Enterprises | Civil, Electrical & Solar Engineering Bangalore",
   description: "Premier engineering firm in Bangalore. GST: 29BFRPH2421B1ZP. Specializing in Solar EPC, Civil Construction, and Electrical works.",
   verification: {
-    google: "aGRpfCd8toVvHxXMsDI7CzWGdGCasgIXId3aHmdTgBY", 
-  },
+  google: "eAJB_JF4MwxwGMvyWF8a3FjDC0AKTiXkAuyhR6i7S0k", 
+},
 };
 
 export default function RootLayout({
